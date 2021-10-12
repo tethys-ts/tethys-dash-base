@@ -11,3 +11,4 @@ zstandard==0.14.0
 orjson==3.4.3
 dash_leaflet==0.1.18
 shapely==1.7.1
+pyyaml==5.4
