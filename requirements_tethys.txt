@@ -1,1 +1,1 @@
-tethysts==0.2.19
+tethysts==0.4.15
