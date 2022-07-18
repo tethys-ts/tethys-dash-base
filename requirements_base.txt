@@ -18,3 +18,5 @@ numexpr==2.8.1
 numcodecs==0.9.1
 boto3==1.21.26
 jmespath==1.0.0
+werkzeug==2.0.3
+protobuf==3.20
