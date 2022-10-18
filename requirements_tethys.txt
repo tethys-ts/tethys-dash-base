@@ -1,1 +1,2 @@
 tethysts==4.5.3
+hdf5tools==0.0.7
