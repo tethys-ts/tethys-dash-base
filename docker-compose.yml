@@ -2,4 +2,4 @@ version: '3'
 
 services:
   fenz-raw:
-    image: tethysts/tethys-dash-base:1.4
+    image: tethysts/tethys-dash-base:1.3
