@@ -1,5 +1,5 @@
-plotly==5.10.0
-dash==2.6.2
+plotly==5.11.0
+dash==2.7.0
 pandas==1.4.4
 xarray==2022.6.0
 rtree==0.9.7
@@ -19,5 +19,6 @@ numcodecs==0.9.1
 boto3==1.24.35
 jmespath==1.0.0
 werkzeug==2.0.3
-protobuf==3.20
+protobuf==4.21.9
 dash-extensions==0.0.71
+geobuf==1.1.1
