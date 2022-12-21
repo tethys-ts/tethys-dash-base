@@ -9,7 +9,7 @@ requests==2.27.1
 zstandard==0.18.0
 orjson==3.6.7
 dash_leaflet==0.1.23
-shapely==1.8.4
+shapely==2.0.0
 pyyaml==5.4.1
 scipy==1.9.2
 numpy==1.23.0
