@@ -1,2 +1,3 @@
-tethysts==4.5.10
-hdf5tools==0.1.11
+tethysts==4.5.12
+booklet==0.0.18
+hdf5tools==0.1.13
