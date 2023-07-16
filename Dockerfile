@@ -1,4 +1,5 @@
 FROM python:3.9-slim-bullseye
+# FROM tiangolo/uwsgi-nginx-flask:python3.9
 
 # ENV TZ='Pacific/Auckland'
 
