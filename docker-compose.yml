@@ -2,4 +2,4 @@ version: '3'
 
 services:
   fenz-raw:
-    image: mullenkamp/tethys-dash-base:1.7
+    image: mullenkamp/tethys-dash-base:1.8
